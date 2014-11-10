@@ -1,9 +1,8 @@
 {
-  "name": "server",
+  "name": "my-koa-seed",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
-    "start": "node --harmony app.js",
+    "start": "gulp",
     "test": "mocha --harmony"
   },
   "dependencies": {
