@@ -1,9 +1,18 @@
 {
   "name": "my-koa-seed",
+  "description": "Koa seed",
   "version": "0.0.1",
+  "author":{
+      "name": "Attila SATAN",
+      "email": "attila.satan@gmail.com"
+  },
   "scripts": {
     "start": "gulp",
     "test": "mocha --harmony"
+  },
+  "repository":{
+      "type": "git",
+      "url": "https://github.com/AttilaSATAN/my-koa-seed"
   },
   "dependencies": {
     "async": "^0.9.0",
